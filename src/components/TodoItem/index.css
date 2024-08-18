@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+  gap: 1rem;
+  padding: 0 1rem;
+}
+
+.del-btn {
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  outline: none;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}

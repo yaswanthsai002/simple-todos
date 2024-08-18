@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.todos-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 3rem;
+}
+
+.todos {
+  width: 100%;
+  list-style-type: none;
+}
